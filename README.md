@@ -1,43 +1,17 @@
-<h1 align="center">Salut, je suis Evann 👋</h1>
+# 💫 About Me:
+Hi, I'm Evann, a passionate web developer and tech enthusiast.
 
-<h3 align="center">Développeur Web Freelance</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evann-rivoal-chiron-6345b225b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@erc-dev.fr) 
+Portfolio : https://erc-dev.fr
 
-<p align="center">
-  Je conçois des expériences web modernes, immersives et performantes. Actuellement en plein développement de mon activité freelance et de mes compétences Front-End.
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <a href="https://erc-dev.fr">🌐 Mon Portfolio</a> •
-  <a href="mailto:contact@erc-dev.fr">✉️ Me Contacter</a>
-</p>
-
----
-
-### 🛠️ Ma Stack Technique
-
-<p align="center">
-  <!-- Tu peux ajouter ou retirer des logos dans le lien ci-dessous (ex: html, css, js, react, etc.) -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,git,github,figma,vscode&perline=10" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=erc-developpeur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=erc-developpeur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erc-developpeur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### 📊 Mes Statistiques
-
-<p align="center">
-  <!-- La carte de tes statistiques globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=erc-developpeur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Statistiques GitHub Evann" />
-</p>
-
-<p align="center">
-  <!-- Les langages que tu utilises le plus -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erc-developpeur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Langages les plus utilisés" />
-</p>
-
----
-
-<p align="center">
-  <i>📍 Basé à La Roche-sur-Yon | Le web de demain se construit aujourd'hui.</i>
-</p>
+[![](https://visitcount.itsvg.in/api?id=erc-developpeur&icon=0&color=0)](https://visitcount.itsvg.in)
